@@ -54,6 +54,15 @@
   }
 }
 
+.custom-text{
+  color: white;
+}
+
+@media only screen and (max-width: 768px) {
+  .custom-text {
+      color: #2F281E;
+  }
+}
 
 .highlight{
   border-bottom: #F59404;
